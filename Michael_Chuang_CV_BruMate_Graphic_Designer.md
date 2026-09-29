@@ -40,6 +40,7 @@ Independent design studio creating brand, social, web, and campaign assets for m
   audience engagement.
 - Design websites and web assets from concept through launch, then keep content updated through the CMS.
 - Built reusable templates and brand resources in Figma so assets stay consistent and ship faster.
+- Deliver video, social, and digital assets that keep each client's brand consistent across every channel.
 
 ### imre — Baltimore, MD (Remote)
 **Senior Art Director** | 05/2022 – 01/2025  
@@ -49,6 +50,7 @@ Designed social, digital, and video assets for major brands, including AstraZene
   engagement and reach.
 - Launched AstraZeneca's first-ever Pinterest campaign (Calquence), creating platform-specific visuals for a new
   channel.
+- Refreshed the look and content of the Calquence Cares Facebook community to make it more relevant to its audience.
 - Built templates, style guides, and brand toolkits that sped up asset production and approvals and kept the brand
   consistent across teams.
 - Presented designs in creative reviews with clients and internal teams to get to final approval, and designed
@@ -63,6 +65,7 @@ Designed social, digital, and video assets for major brands, including AstraZene
 - Contributed to a **35% year-over-year increase in STARZ app usage** through integrated digital campaigns.
 - Created social content for the corporate brand and original series that kept the brand look consistent.
 - Managed and mentored a team of 6 designers and developers, running creative reviews and annual performance reviews.
+- Produced presentations and digital collateral for leadership and PR, in line with brand guidelines.
 
 ---
 
@@ -79,4 +82,5 @@ Designed social, digital, and video assets for major brands, including AstraZene
 
 - **Adobe Creative Suite:** Illustrator · Photoshop · InDesign · After Effects · Premiere Pro
 - **Design & Web:** Figma · Sketch · HTML · CMS
-- **AI & Office:** Midjourney · Adobe Firefly · Claude · PowerPoint · Google Slides · Microsoft Office
+- **AI & Emerging:** Midjourney · Adobe Firefly · Claude · AI image generation
+- **Office:** PowerPoint · Google Slides · Microsoft Office
