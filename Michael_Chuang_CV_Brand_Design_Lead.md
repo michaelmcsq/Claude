@@ -67,8 +67,9 @@ Art direction for social, digital, and video campaigns for major brands, includi
 
 - Directed **award-winning** digital press kits for *Power* (S5) and *Black Sails* (S4), bringing series brands to
   life as interactive web experiences.
-- Supervised and mentored a team of designers and developers supporting Digital Marketing, Originals Marketing, PR,
-  and International teams across campaigns, web, and email.
+- Managed and mentored a team of 6 designers and developers, including annual performance reviews that directly shaped
+  each person's annual bonus.
+- Led the team's campaign, web, and email work for Digital Marketing, Originals Marketing, PR, and International teams.
 - Contributed to a **35% year-over-year increase in STARZ app usage** through integrated digital campaigns.
 - Kept the brand consistent across social, web, email, and in-app, for both the corporate brand and original series.
 - Introduced version control and peer-review workflows that made design-to-development handoffs smoother and

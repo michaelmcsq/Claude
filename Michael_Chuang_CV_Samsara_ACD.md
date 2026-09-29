@@ -7,8 +7,8 @@ Denver, CO (Remote) · 303.596.5415 · michael@mcsqdesign.com · [mcsqdesign.com
 
 ## SUMMARY
 
-Creative leader and hands-on designer with 15+ years of experience and 7 years leading teams of designers and
-developers. Has worked for brands including Netflix, STARZ, AstraZeneca, GSK, and WOW! Internet. Brings together
+Creative leader and hands-on designer with 15+ years of experience and 7 years as a people manager, leading a team
+of 6 designers and developers. Has worked for brands including Netflix, STARZ, AstraZeneca, GSK, and WOW! Internet. Brings together
 creative direction, UX/UI, and front-end skills to turn complex products and business goals into clear, compelling
 visual stories. Builds and runs digital design systems (design tokens, component libraries, templates, and brand
 guidelines) that keep product, marketing, and customer-experience teams consistent. Works closely with marketing,
@@ -21,7 +21,7 @@ in the creative process.
 
 ## CORE COMPETENCIES
 
-- **Creative Leadership:** Creative direction · Team management & mentorship · Constructive feedback & creative reviews · Production oversight from idea to delivery
+- **Creative Leadership:** Creative direction · Team management & mentorship · Performance reviews · Constructive feedback & creative reviews · Production oversight from idea to delivery
 - **Design Systems & Brand:** Digital design system ownership · Design tokens & component libraries · Brand guidelines, style guides & toolkits · Brand positioning & storytelling
 - **Digital Experience:** UX/UI design · Interaction design · Web & product marketing experiences · Turning user insights into design decisions
 - **Performance:** Analytics-informed creative · SEO · Full-funnel digital campaigns · Performance-driven optimization
@@ -65,8 +65,9 @@ Creative lead for digital, social, and video work for major brands, including As
 ### STARZ Entertainment — Englewood, CO
 **Interactive Art Director** | 06/2012 – 05/2019
 
-- **Supervised and mentored a team of designers and developers** serving Digital Marketing, Originals Marketing, PR,
-  and International teams, providing creative direction, feedback, and support for each person's growth.
+- **Managed a team of 6 designers and developers**, running annual performance reviews that directly shaped each
+  person's annual bonus, and giving ongoing creative direction, feedback, and mentorship.
+- Led the team's work for Digital Marketing, Originals Marketing, PR, and International teams.
 - Oversaw production of digital campaigns, websites, email, and interactive experiences from idea to launch, on
   deadline and to brand standards.
 - Contributed to a **35% year-over-year increase in STARZ app usage** through integrated digital campaigns.

@@ -12,7 +12,7 @@ consumer, and healthcare brands, including Netflix, STARZ, AstraZeneca, and GSK.
 across client portfolios: sets the visual direction, leads the teams who carry it out, and holds every deliverable to a
 high standard from idea through production and distribution. Partners closely with Strategy, Account, and client
 leads to turn audience insight and brand strategy into editorialized, platform-native content that drives engagement.
-Has mentored and managed teams of designers and developers; led pitch narratives and concept workshops that won
+Has managed and mentored a team of 6 designers and developers, including annual performance reviews; led pitch narratives and concept workshops that won
 client buy-in; and built design systems, templates, and brand toolkits that bring speed and cohesion to high-volume
 production. Hands-on in Figma, Adobe Creative Suite, After Effects, and Premiere, and an early adopter of AI tools
 (Midjourney, Adobe Firefly, Claude) to modernize creative operations.
@@ -65,8 +65,9 @@ Creative direction and production studio for entertainment, media, and consumer 
 ### STARZ Entertainment — Englewood, CO
 **Interactive Art Director** | 06/2012 – 05/2019
 
-- Supervised and mentored a team of designers and developers serving Digital Marketing, Originals Marketing, PR, and
-  International teams, giving creative direction and feedback and helping team members grow.
+- Managed a team of 6 designers and developers, running annual performance reviews that directly shaped each person's
+  annual bonus, and giving ongoing creative direction, feedback, and mentorship.
+- Led the team's work for Digital Marketing, Originals Marketing, PR, and International teams.
 - Directed **award-winning** digital press kits for *Power* (S5) and *Black Sails* (S4).
 - Led social channels and campaign creative for the corporate brand and original series, keeping storytelling
   consistent and building fan engagement.
