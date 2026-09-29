@@ -10,9 +10,9 @@ Denver, CO (Remote) · 303.596.5415 · michael@mcsqdesign.com · [mcsqdesign.com
 Art-led creative leader with 15+ years building social-first campaigns and high-volume content for major entertainment,
 consumer, and healthcare brands, including Netflix, STARZ, AstraZeneca, and GSK. Serves as the central creative authority
 across client portfolios: sets the visual direction, leads the teams who carry it out, and holds every deliverable to a
-high standard from idea through production and distribution. Partners closely with Strategy, Account, and Paid Media
+high standard from idea through production and distribution. Partners closely with Strategy, Account, and client
 leads to turn audience insight and brand strategy into editorialized, platform-native content that drives engagement.
-Has mentored and managed designers, art directors, and developers; led pitch narratives and concept workshops that won
+Has mentored and managed teams of designers and developers; led pitch narratives and concept workshops that won
 client buy-in; and built design systems, templates, and brand toolkits that bring speed and cohesion to high-volume
 production. Hands-on in Figma, Adobe Creative Suite, After Effects, and Premiere, and an early adopter of AI tools
 (Midjourney, Adobe Firefly, Claude) to modernize creative operations.
@@ -24,7 +24,7 @@ production. Hands-on in Figma, Adobe Creative Suite, After Effects, and Premiere
 - **Creative Leadership & Direction:** Creative vision across workstreams · Team mentorship & feedback · Creative reviews & quality control · Pitch leadership & business development
 - **Social & Content:** Social-first & editorialized content · Platform-native creative (Instagram, Pinterest, Facebook, video) · Social trends & culture · Motion & video direction · High-volume content production
 - **Brand & Systems:** Design systems & component libraries · Brand guidelines & toolkits · Templates & style guides · Typography · Art direction & photo shoot direction
-- **Collaboration:** Cross-functional partnership (Strategy, Account, Paid Media, Production) · Client presentations · Integrated campaign planning & workflow
+- **Collaboration:** Cross-functional partnership (Strategy, Account, Production, Development) · Client presentations · Integrated campaign planning & workflow
 
 ---
 
