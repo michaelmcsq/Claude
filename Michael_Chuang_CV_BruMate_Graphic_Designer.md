@@ -7,7 +7,7 @@ Denver, CO · 303.596.5415 · michael@mcsqdesign.com · **Portfolio:** [mcsqdesi
 
 ## SUMMARY
 
-Hands-on graphic designer based in Denver with 10+ years of experience designing polished marketing assets for consumer
+Hands-on graphic designer based in Denver with 15+ years of experience designing polished marketing assets for consumer
 brands, including Netflix, STARZ, WOW! Internet, and AstraZeneca. Turns marketing briefs into complete sets of assets
 across social, email, web, paid digital, and print, and keeps the brand consistent at every touchpoint. Handles the
 whole process from concept and layout through photo editing, asset rollouts, creative reviews, and print- and
@@ -66,6 +66,12 @@ Designed social, digital, and video assets for major brands, including AstraZene
 - Created social content for the corporate brand and original series that kept the brand look consistent.
 - Managed and mentored a team of 6 designers and developers, running creative reviews and annual performance reviews.
 - Produced presentations and digital collateral for leadership and PR, in line with brand guidelines.
+
+**Senior Interactive Designer** | 03/2008 – 06/2012
+
+- Designed integrated campaign assets across banners, email, social, and web, with close attention to composition
+  and layout.
+- Increased the use of video content, which raised engagement and gave original programming more visibility.
 
 ---
 
