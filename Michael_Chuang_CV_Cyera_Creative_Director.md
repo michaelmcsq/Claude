@@ -13,7 +13,7 @@ strategy into one clear idea, then carries it across web, social, video, launche
 Makes serious, technical subjects feel human without losing credibility, as shown by nearly three years making
 oncology and pharmaceutical brands clear and relatable for patients and caregivers within strict regulatory
 guidelines. Hands-on in every part of the work: concepting, art direction, photo shoot direction, motion, and
-building websites. Has led and developed a creative team of six, conducting performance reviews and coaching people
+building websites. Has hired, led, and developed a creative team of six, conducting performance reviews and coaching people
 into stronger creative thinkers. Builds the guardrails that keep a brand consistent at speed (design systems, brand
 toolkits, templates, and style guides) and has a clear view on where AI tools raise both quality and speed in the
 creative process.
@@ -26,7 +26,7 @@ creative process.
 - **Creative Direction:** Launches · Websites · Social · Video & motion · Sales & executive presentations · Digital press kits
 - **Hands-On Craft:** Concepting · Art direction · Photo shoot direction · Typography & layout · Front-end development
 - **Brand Stewardship:** Brand identity · Design systems & component libraries · Brand toolkits & guardrails for partner teams
-- **People & Partners:** Team leadership & coaching · Performance reviews · Stakeholder management · Cross-functional collaboration
+- **People & Partners:** Hiring, team leadership & coaching · Performance reviews · Stakeholder management · Cross-functional collaboration
 - **AI Fluency:** Defining where AI fits in the creative workflow · Midjourney · Adobe Firefly · Claude · AI-assisted concepting & prototyping
 
 ---
@@ -70,6 +70,7 @@ Creative lead for digital, social, and video for major pharmaceutical brands, in
 
 - **Led and developed a team of 6 designers and developers**, conducting annual performance reviews that directly shaped
   each person's annual bonus, and coaching team members to build their craft and creative thinking.
+- Played a key role in hiring and selecting candidates for positions on the STARZ Interactive team.
 - Served as creative lead for internal partners across Digital Marketing, Originals Marketing, PR, and International,
   managing competing priorities while holding a consistent creative point of view.
 - Directed **award-winning** digital press kits for *Power* (S5) and *Black Sails* (S4), turning series launches

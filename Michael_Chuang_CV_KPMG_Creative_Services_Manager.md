@@ -66,6 +66,7 @@ GSK, and Aveo Oncology.
 
 - **Managed a team of six designers and developers** as their direct manager, conducting annual performance reviews
   that directly influenced annual bonuses and providing ongoing guidance, mentorship, and skill development.
+- Played a key role in hiring and selecting candidates for positions on the STARZ Interactive team.
 - Served as creative lead for internal clients, including Digital Marketing, Originals Marketing, PR, and
   International, delivering digital campaigns, websites, email, and interactive experiences.
 - Directed **award-winning** digital press kits for *Power* (Season 5) and *Black Sails* (Season 4).

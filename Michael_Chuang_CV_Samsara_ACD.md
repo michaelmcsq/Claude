@@ -67,6 +67,7 @@ Creative lead for digital, social, and video work for major brands, including As
 
 - **Managed a team of 6 designers and developers**, running annual performance reviews that directly shaped each
   person's annual bonus, and giving ongoing creative direction, feedback, and mentorship.
+- Played a key role in hiring and selecting candidates for positions on the STARZ Interactive team.
 - Led the team's work for Digital Marketing, Originals Marketing, PR, and International teams.
 - Oversaw production of digital campaigns, websites, email, and interactive experiences from idea to launch, on
   deadline and to brand standards.

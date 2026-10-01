@@ -69,6 +69,7 @@ Art direction for social, digital, and video campaigns for major brands, includi
   life as interactive web experiences.
 - Managed and mentored a team of 6 designers and developers, including annual performance reviews that directly shaped
   each person's annual bonus.
+- Played a key role in hiring and selecting candidates for positions on the STARZ Interactive team.
 - Led the team's campaign, web, and email work for Digital Marketing, Originals Marketing, PR, and International teams.
 - Contributed to a **35% year-over-year increase in STARZ app usage** through integrated digital campaigns.
 - Kept the brand consistent across social, web, email, and in-app, for both the corporate brand and original series.

@@ -67,6 +67,7 @@ Creative direction and production studio for entertainment, media, and consumer 
 
 - Managed a team of 6 designers and developers, running annual performance reviews that directly shaped each person's
   annual bonus, and giving ongoing creative direction, feedback, and mentorship.
+- Played a key role in hiring and selecting candidates for positions on the STARZ Interactive team.
 - Led the team's work for Digital Marketing, Originals Marketing, PR, and International teams.
 - Directed **award-winning** digital press kits for *Power* (S5) and *Black Sails* (S4).
 - Led social channels and campaign creative for the corporate brand and original series, keeping storytelling

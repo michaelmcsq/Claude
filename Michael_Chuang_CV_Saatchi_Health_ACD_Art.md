@@ -67,6 +67,7 @@ Provide creative direction and development services to media, telecom, and enter
 - **Managed a team of six designers and developers**, making assignments across Digital Marketing, Originals
   Marketing, PR, and International teams, and conducting annual performance reviews that directly influenced
   annual bonuses.
+- Played a key role in hiring and selecting candidates for positions on the STARZ Interactive team.
 - Provided ongoing creative direction, feedback, and mentorship to help team members reach their professional goals.
 - Directed **award-winning** digital press kits for *Power* (Season 5) and *Black Sails* (Season 4).
 - Contributed to a **35% year-over-year increase in STARZ app usage** through integrated digital campaigns.
