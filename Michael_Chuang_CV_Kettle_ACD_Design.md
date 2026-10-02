@@ -12,7 +12,8 @@ managing a design and development team. Leads campaigns from big idea through ex
 email, and video for brands including Netflix, STARZ, AstraZeneca, GSK, and WOW! Internet. Adapts look and feel
 across industries and audiences, from entertainment and consumer telecom to regulated pharmaceutical brands, and
 ties every idea back to business goals. Designs for motion as well as static work, with hands-on After Effects and
-Premiere skills. Gives clear, actionable direction, holds a high bar for craft, and mentors designers to grow.
+Premiere skills. Believes design and copy are strongest built together, with a long track record of concepting side by side
+with copywriters. Gives clear, actionable direction, holds a high bar for craft, and mentors designers to grow.
 Builds persuasive pitch decks and presentations that win over clients and executives. Actively uses AI in the creative
 workflow (Midjourney, Adobe Firefly, Claude) to explore ideas and speed up production.
 
@@ -20,7 +21,7 @@ workflow (Midjourney, Adobe Firefly, Claude) to explore ideas and speed up produ
 
 ## LEADERSHIP & CRAFT
 
-- **Creative Leadership:** Campaign concepting & big ideas · Clear, actionable direction · Mentoring designers · Performance reviews & hiring
+- **Creative Leadership:** Campaign concepting & big ideas · Clear, actionable direction · Concepting with copywriters · Mentoring designers · Performance reviews & hiring
 - **Design Craft:** Art direction · Brand look & feel · Typography & layout · Design for motion · Design systems & toolkits
 - **Channels:** Digital campaigns · Landing pages & websites · Email · Social & platform content · Video & motion
 - **Presenting & Influence:** Pitch decks · Executive presentations · Concept workshops · Managing multi-stakeholder feedback
@@ -57,6 +58,8 @@ Creative lead for digital, social, and video for major pharmaceutical brands, in
 - Balanced bold design with strict regulatory and brand guidelines across multiple stakeholders.
 - Led concept workshops with clients and internal teams, and **led client pitch presentations** that won approval
   for new creative.
+- Frequently partnered with a copywriter on ideation and messaging, so design and copy were developed together
+  from the first concept.
 - Designed executive presentations and pitch decks in PowerPoint and Google Slides, and built templates, style guides,
   and brand toolkits that streamlined approvals.
 
@@ -68,6 +71,8 @@ Creative lead for digital, social, and video for major pharmaceutical brands, in
 - Played a key role in hiring and selecting candidates for positions on the STARZ Interactive team.
 - Led creative for Digital Marketing, Originals Marketing, PR, and International teams, managing feedback from many
   stakeholders and setting clear deadlines and expectations for the team.
+- Worked closely with the Senior Copywriter on every project and concepting session, building ideas where the
+  visuals and the words worked as one.
 - Directed **award-winning** digital press kits for *Power* (S5) and *Black Sails* (S4).
 - Contributed to a **35% year-over-year increase in STARZ app usage** through integrated digital campaigns.
 - Led social channels and campaign creative for the corporate brand and original series, keeping the look
